@@ -17,12 +17,15 @@ Open the index.html file in your web browser.
 
 # Project Structure
 The project structure is organized as follows:
+
 ├── index.html
 ├── css
 │   └── styles.css
 ├── images
 │   └── ...
 └── README.md
+
+
 index.html: The main HTML file that represents the structure of the Amazon clone.
 css/styles.css: The CSS file that contains the styling for the clone.
 images/: A directory containing all the images used in the project.
